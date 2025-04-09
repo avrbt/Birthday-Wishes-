@@ -1,12 +1,21 @@
 body {
-	/*background-color: #FFDAB9;	*/
+	/*background-color: #FFDAB9;	
 	background-color: #000;
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
 	-o-transition:background-color linear 5s;
 	-ms-transition:background-color linear 5s;
 	transition:background-color linear 5s;
-	overflow-x:hidden;
+	overflow-x:hidden;*/
+
+	
+		background-color: #000;
+		color: #fff;
+		font-family: 'Signika', sans-serif;
+		text-align: center;
+		margin: 0;
+		padding: 0;
+	
 }
 .container {
 	display: none;
